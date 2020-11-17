@@ -1,0 +1,2 @@
+﻿SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol _SDL_main referenced in function _main_utf8
+C:\Users\jbusk\source\repos\Carbon\Debug\Carbon.exe : fatal error LNK1120: 1 unresolved externals
