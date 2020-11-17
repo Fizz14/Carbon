@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Carbon.cpp
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(9): error C2143: syntax error: missing ';' before '*'
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(10): error C2143: syntax error: missing ';' before '*'
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(16): error C2065: 'SDL_Event': undeclared identifier
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(16): error C2146: syntax error: missing ';' before identifier 'carbonevent'
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(16): error C2065: 'carbonevent': undeclared identifier
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(17): error C2065: 'SDL_INIT_EVERYTHING': undeclared identifier
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(17): error C3861: 'SDL_Init': identifier not found
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(18): error C2297: '*': illegal, right operand has type 'int *'
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(18): error C3861: 'SDL_CreateWindow': identifier not found
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(20): error C2297: '*': illegal, right operand has type 'int *'
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(20): error C2065: 'SDL_RENDERER_ACCELERATED': undeclared identifier
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(20): error C2065: 'SDL_RENDERER_PRESENTVSYNC': undeclared identifier
+c:\users\jbusk\source\repos\carbon\carbon\carbon.cpp(20): error C3861: 'SDL_CreateRenderer': identifier not found
