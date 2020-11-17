@@ -4,4 +4,4 @@ This was a codebase I built as a teenager in highschool. Over the years, I added
 carbon-boids was the third fork I made to my project. It is used to demonstrate emergent behavior by simulation little bird-like creatures who flock and break apart
 while flying on the screen. 
 
-To build, you must resolve linker errors with SDL2.
+To build, you must correctly link SDL2.
